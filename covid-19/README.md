@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+This repository contains a COVID-19 Tracker, a web application that provides real-time updates and statistics related to the COVID-19 pandemic. The tracker displays global and country-specific data, including the number of confirmed cases, recoveries, and deaths.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Features
+Live statistics on COVID-19 cases worldwide
+Country-specific statistics and trends
+Interactive charts and graphs
+Historical data analysis
+Search functionality to quickly find specific countries
+Responsive and user-friendly design
 
-## Available Scripts
+Technologies Used
+HTML5, CSS3, JavaScript
+React.js framework
+Chart.js for data visualization
+RESTful API for fetching real-time data
+Responsive design using CSS media queries
+Git for version control
+Getting Started
+To run the COVID-19 Tracker locally, follow these steps:
 
-In the project directory, you can run:
+Clone the repository: git clone https://github.com/your-username/covid-tracker.git
+Navigate to the project directory: cd covid-tracker
+Install the dependencies: npm install
+Start the development server: npm start
+Open your browser and visit http://localhost:3000
+API Usage
+The COVID-19 Tracker relies on a RESTful API to fetch the latest data. The API used in this project is available at example.com/api/covid. The API provides various endpoints to fetch global and country-specific data.
 
-### `npm start`
+Contributing
+Contributions to the COVID-19 Tracker are welcome. If you want to contribute, please follow these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Fork the repository
+Create a new branch: git checkout -b my-feature
+Make your changes and commit them: git commit -m 'Add some feature'
+Push to the branch: git push origin my-feature
+Open a pull request
+Please ensure your code follows the existing coding style and includes appropriate tests.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+Acknowledgements
+Thanks to API Provider for providing the COVID-19 data.
+![Screenshot 2023-07-08 151421](https://github.com/shivanshi11/![Screenshot 2023-07-08 151421](https://github.com/shivanshi11/Covid_Tracker/assets/123180350/16fdca3c-4cf8-469c-bf96-6af19e08645c)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
