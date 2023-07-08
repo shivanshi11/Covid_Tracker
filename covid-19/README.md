@@ -37,7 +37,5 @@ Open a pull request
 Please ensure your code follows the existing coding style and includes appropriate tests.
 
 
-Acknowledgements
-Thanks to API Provider for providing the COVID-19 data.
-![Screenshot 2023-07-08 151421](https://github.com/shivanshi11/![Screenshot 2023-07-08 151421](https://github.com/shivanshi11/Covid_Tracker/assets/123180350/16fdca3c-4cf8-469c-bf96-6af19e08645c)
+Screenshot :  (https://github.com/shivanshi11/Covid_Tracker/assets/123180350/16fdca3c-4cf8-469c-bf96-6af19e08645c)
 
